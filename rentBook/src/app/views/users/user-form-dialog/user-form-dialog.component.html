@@ -1,0 +1,31 @@
+<h1 mat-dialog-title>Novo Usuário</h1>
+<div mat-dialog-content>
+  <form class="user-form" [formGroup]="userForm">
+
+    <mat-form-field class="field-width">
+      <mat-label>Nome</mat-label>
+      <input matInput formControlName="name" name="name">
+    </mat-form-field>
+
+    <mat-form-field class="field-width">
+      <mat-label>Avatar</mat-label>
+      <input matInput formControlName="avatar" name="avatar">
+    </mat-form-field>
+
+    <mat-form-field class="field-width">
+      <mat-label>Telefone</mat-label>
+      <input matInput formControlName="phone" name="phone">
+    </mat-form-field>
+
+    <mat-form-field class="field-width">
+      <mat-label>E-mail</mat-label>
+      <input matInput formControlName="email" name="email">
+    </mat-form-field>
+
+  </form>
+</div>
+
+<div mat-dialog-actions>
+  <button mat-button (click)="cancel()">Cancelar</button>
+  <button mat-raised-button color="primary" (click)="createOrUpdateUser()">Salvar</button>
+</div>

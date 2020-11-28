@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "avatar": "https://i.pinimg.com/originals/ae/07/63/ae0763b90a800de6dc8756a7479524b9.jpg",
+      "name": "Itachi Uchiha",
+      "phone": "83996286546",
+      "email": "uchihaitachi@konoha.com"
+    },
+    {
+      "id": 4,
+      "avatar": "https://images6.fanpop.com/image/polls/1542000/1542233_1455524942981_full.jpg",
+      "name": "Naruto Uzumaki",
+      "phone": "11922334455",
+      "email": "naruto@konoha.com"
+    },
+    {
+      "id": 5,
+      "avatar": "https://onepiecetheories.com/wp-content/uploads/2016/07/sanjionepiece-e1468017404801.jpg",
+      "name": "Sanji Vinsmoke",
+      "phone": "",
+      "email": "sanji@mugiwara.com"
+    },
+    {
+      "id": 7,
+      "avatar": "https://gartic.com.br/imgs/mural/ri/rickmortyn_/lucy-fairy-tail-2.png",
+      "name": "Lucy",
+      "phone": "8399887766",
+      "email": "lucy@fairytail.com"
+    },
+    {
+      "id": 8,
+      "avatar": "https://4.bp.blogspot.com/-tIjBRJCTE7g/T91VkiItbmI/AAAAAAAABqo/v_0fAp4Q69Y/s1600/images.jpg",
+      "name": "Sakura Haruno",
+      "phone": "83999887766",
+      "email": "harunosakura@konoha.com"
+    },
+    {
+      "id": 9,
+      "avatar": "https://i3.sndcdn.com/avatars-000368745626-nlnoiu-t500x500.jpg",
+      "name": "Nami",
+      "phone": "1122334455",
+      "email": "nami@mugiwara.com"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Dan Brown"
+    },
+    {
+      "id": 2,
+      "name": "Léo Lins"
+    },
+    {
+      "id": 3,
+      "name": "John Green"
+    },
+    {
+      "id": 4,
+      "name": "Arthur Conan Doyle"
+    }
+  ],
+  "books": [],
+  "rents": [],
+  "reservations": []
+}
